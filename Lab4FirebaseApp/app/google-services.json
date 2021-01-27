@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255424288732",
+    "firebase_url": "https://lab4firebaseapp-default-rtdb.firebaseio.com",
+    "project_id": "lab4firebaseapp",
+    "storage_bucket": "lab4firebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255424288732:android:2052dca01c6a55a1d02119",
+        "android_client_info": {
+          "package_name": "mk.ukim.finki.lab4_firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255424288732-kahr6mbfnijbbeuh81k1o3lcegpd8qr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUME2--NCL6Zw57vtXkdi8Q7q_G2XjgBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255424288732-kahr6mbfnijbbeuh81k1o3lcegpd8qr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
